@@ -23,5 +23,5 @@ def f(dis, weight, eat):
 
 dis=1000
 weight=3000
-eat=1
+eat=1 #in kg per km
 f(dis,weight,eat)
